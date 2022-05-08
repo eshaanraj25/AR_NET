@@ -33,9 +33,6 @@ Five points are selected and extracted as CSV together with the ROI selection fr
 
 <img src="https://user-images.githubusercontent.com/32570071/58100378-ce430b80-7bdd-11e9-93bd-b573ca924951.jpg" width="700" height="290" />
 
-Our annotated dataset is made publicly available for research or academic purposes only. However, to access our annotated dataset, the audience is requested to fill the following google form. 
-
-[Registration for Accessing our ART-Net Dataset](https://forms.gle/BhavnSx55fa8zocj9)
 
 Then, the annotated dataset can be found in the following link. 
 
@@ -45,9 +42,4 @@ Then, the annotated dataset can be found in the following link.
 
 If you access our dataset, do not forget to cite the article in the [link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521000402).
 
-#### Written by- <br>
-Md. Kamrul Hasan <br>
-Former research intern at [EnCoV](http://igt.ip.uca.fr/encov/) research team, France <br>
-Former Erasmus Scholar on Medical Imaging and Applications ([MAIA](http://maiamaster.udg.edu/)) <br> 
-For more details write me at kamruleeekuet@gmail.com <br> 
-Google Scholar https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en
+
